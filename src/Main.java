@@ -36,7 +36,7 @@ public class Main {
             }
         };
 
-        objectAnon.test(-2);
+        objectAnon.test(-3);
 
 
         //Через лямбду
